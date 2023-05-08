@@ -1,8 +1,5 @@
 homepage 1.0
 =============
-
-### Live Demo: <a href="https://djordjeivanovic9.github.io/homepage/">Demo</a>
-
 ### Default Home
 <img src="homepage.png" alt="Home" width="100%"/>
 
